@@ -1,4 +1,9 @@
-
+// Author: Martin Chlebovec alias: martinius96
+// Support: https://www.paypal.me/Chlebovec
+// Personal web: https://arduino.php5.sk
+// Email contact: martinius96@gmail.com
+// Facebook contact: 100001242570317
+// Use under license!
 #include <DHT12.h>
 #include <Wire.h>     // DHT12 pouziva I2C komunikaciu.
 DHT12 dht12;          //nastavenie °C a adresu 0x5c.
