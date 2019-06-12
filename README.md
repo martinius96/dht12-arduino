@@ -11,11 +11,20 @@
 * Accurancy temperature +-0.5°C
 * Current consumption: 1mA
 * Standby: 60uA
+
+# Wiring
+MCU|DHT12
+:----------: | :----------:
+2.7-5.5V|Vcc
+GND|GND
+(Hardware SDA)|SDA
+(Hardware SCL)|SCL
+
 # Cost
 * Under 1€
-# Wiring with Arduino
-* ![alt text](http://i.ebayimg.com/images/g/vegAAOSwzJ5Xfy5V/s-l300.jpg)
+
 # 1-Wire
 * For 1-Wire connection connect GND to SCL pin
+
 # Contact and support
 * Contact me and support on my website: https://arduino.php5.sk
